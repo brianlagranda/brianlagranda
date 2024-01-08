@@ -77,7 +77,7 @@
 
 <br/>
 
-## Some Projects -
+## Some Projects
 [![Artworks Catalog](https://github-readme-stats.vercel.app/api/pin/?username=brianlagranda&repo=artworkscatalog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brianlagranda/artworkscatalog)
 [![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=brianlagranda&repo=calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brianlagranda/calculator)
 [![E-Commerce Web](https://github-readme-stats.vercel.app/api/pin/?username=brianlagranda&repo=tecnological&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brianlagranda/tecnological)
