@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/brianlagranda"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;%2B1%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=408&height=45"></a>
+  <a href="https://github.com/brianlagranda"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;%2B1%20year%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=408&height=45"></a>
 </p>
 
 
