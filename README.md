@@ -26,14 +26,14 @@
 </p>
 
 <p align="center">
- <a href="https://brianlagranda-portfolio.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="brian" />
+ <a href="https://brianlagranda.com.ar/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="portfolio url" />
  </a>
  <a href="https://www.linkedin.com/in/brianlagranda/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brian"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin url"/>
  </a>
  <a href="https://twitter.com/BrianDvlpr" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter url"/>
  </a>
 </p>
 <br />
