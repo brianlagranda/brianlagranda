@@ -47,9 +47,9 @@
  💻 &emsp; Enjoy to do programming and sharing knowledge. <br/><br/>
  🤓 &emsp; Adore solving problems and learning new features. <br/><br/>
  ❤️ &emsp; Love playing videogames and ♟ chess. <br/><br/>
- 🎵 &emsp; Electronic music deejay, my ground wire. <br/><br/>
- 📧 &emsp; Reach me anytime: brianlagranda@gmail.com <br/><br/>
- 💬 &emsp; Let's connect and ask me about anything [here](https://www.linkedin.com/in/brianlagranda/)
+ 🎵 &emsp; Electronic and chill music, my ground wire. <br/><br/>
+ 📧 &emsp; Reach me anytime: briandvlpr@gmail.com <br/><br/>
+ 💬 &emsp; Let's connect and ask me about anything [here](https://www.linkedin.com/in/dev-brianlagranda/)
 
 </p>
 
